@@ -20,12 +20,12 @@ import { PiFigmaLogoFill } from "react-icons/pi";
 import { ImGithub } from "react-icons/im";
 import { PiStudentBold } from "react-icons/pi";
 import My from "../../assets/images/my.jpg";
-import ShopFood from "../../assets/images/mak.png";
+import Norn from "../../assets/images/norn.png";
 import AliExpress from "../../assets/images/AliExpress.png";
 import Ecommer from "../../assets/images/Ecommer.png";
 import Country from "../../assets/images/country.png";
 import Mebels from "../../assets/images/mebel.png";
-import Data from "../../assets/images/data.png";
+import Gold from "../../assets/images/gold.png";
 
 import { SiNetlify } from "react-icons/si";
 import { IoIosArrowDropup } from "react-icons/io";
@@ -324,14 +324,14 @@ function Main() {
           </div>
           <div className="work-card">
             <div className="work-card-item">
-              <img className="img-project"  src={ShopFood} alt="" />
+              <img className="img-project"  src={Norn} alt="" />
               <div className="work-card-item__flex">
                 <h3>Lorem ipsum dolor sit amet.</h3>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Aspernatur, ut.
                 </p>
-                <a href="https://shoping-kappa.vercel.app/" >View code</a>
+                <a href="https://norn-light0605.vercel.app/" >View code</a>
                 <span>
                   <SiNetlify />
                 </span>
@@ -398,14 +398,14 @@ function Main() {
               </div>
             </div>
             <div className="work-card-item">
-              <img className="img-project" src={Data} alt="" />
+              <img className="img-project" src={Gold} alt="" />
               <div className="work-card-item__flex">
                 <h3>Lorem ipsum dolor sit amet.</h3>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Aspernatur, ut.
                 </p>
-                <a href="https://dates-lake.vercel.app/">
+                <a href="https://mohid-gold.vercel.app/">
                   View project
                 </a>
                 <span>
